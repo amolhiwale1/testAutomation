@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 /**
 * chrome --remote-debugging-port=9222 --user-data-dir="C:\Users\Downloads"
-* Change the address of your project and run this command on CMD
+* Change the address of your project in double quotes and run this command on CMD
 
 * */
 public class Test {
